@@ -1,0 +1,11 @@
+id,name,age,gender,salary
+1,John Doe,25,Male,50000
+2,Jane Smith,,Female,60000
+3,Bob Johnson,30,Male,
+4,Alice Brown,28,Female,55000
+5,Chris Lee,22,,48000
+6,John Doe,25,Male,50000
+7,Mary Davis,thirty,Female,62000
+8,,27,Male,52000
+9,David Wilson,29,Male,NaN
+10,Sarah Miller,31,Female,70000
